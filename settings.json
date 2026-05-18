@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TheTBG_24by7.aternos.me",
+    "ip": "barbel.aternos.host:41051",
     "port": 41051,
     "version": "1.21.5",
     "try-creative": false
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "serverisHIMTBG"
     },
     "anti-afk": {
       "enabled": true,
