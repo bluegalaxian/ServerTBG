@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "ServerTBG",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "ServerTBG",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "TheTBG_24by7.aternos.me:41051",
+    "port": 41051,
+    "version": "1.21.5",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "https://discord.gg/DQt6VnKNZ",
+        "https://discord.gg/DQt6VnKNZ",
+        "https://discord.gg/DQt6VnKNZ"
       ]
     },
     "chat-log": true,
