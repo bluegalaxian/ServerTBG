@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TheTBG_24by7.aternos.me",
+    "ip": "TheTBG.aternos.me",
     "port": 41051,
-    "version": "1.21.5",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
