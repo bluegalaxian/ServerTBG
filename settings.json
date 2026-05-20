@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TheTBG.aternos.me",
+    "ip": "TBGS.aternos.me",
     "port": 41051,
     "version": "1.21.11",
     "try-creative": false
